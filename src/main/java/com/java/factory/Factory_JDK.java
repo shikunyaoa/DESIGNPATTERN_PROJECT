@@ -12,6 +12,6 @@ import java.util.Calendar;
 public class Factory_JDK {
 
     public static void main(String[] args) {
-        Calendar.getInstance()
+        Calendar.getInstance();
     }
 }

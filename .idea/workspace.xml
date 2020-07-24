@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37c2c38a-2c9f-4644-a300-7dc94eacda22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/composite/College.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/composite/Composite_JDK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/composite/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/composite/OrganizationComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/composite/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/facade/DVDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/facade/HomeFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/facade/Popcorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/flyweight/ConcreteWebSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/flyweight/FlyWeight_JDK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/flyweight/WebSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/flyweight/WebSiteFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,59 +22,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/composite/OrganizationComponent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
-              <folding>
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#697#698#0" expanded="true" />
-                <element signature="e#737#738#0" expanded="true" />
-                <element signature="e#769#770#0" expanded="true" />
-                <element signature="e#799#800#0" expanded="true" />
-                <element signature="e#825#826#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#893#894#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/composite/University.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="48" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#760#761#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#842#843#0" expanded="true" />
-                <element signature="e#879#880#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/composite/College.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-115">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="256">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/composite/Department.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+            <state relative-caret-position="352">
+              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
               <folding>
                 <element signature="e#247#248#0" expanded="true" />
                 <element signature="e#279#280#0" expanded="true" />
@@ -97,7 +46,7 @@
                 <element signature="e#407#408#0" expanded="true" />
                 <element signature="e#444#445#0" expanded="true" />
                 <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/composite/Composite_JDK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            <state relative-caret-position="240">
+              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,35 +67,59 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/facade/DVDPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="176">
               <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/facade/HomeFacade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/flyweight/WebSite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/flyweight/ConcreteWebSite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/facade/HomeFacade.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/flyweight/WebSiteFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
-              <folding>
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#594#595#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java/flyweight/FlyWeight_JDK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -154,20 +127,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java/facade/Popcorn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
+            <state relative-caret-position="336">
               <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-              <folding>
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -202,10 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/java/factory/simpleFactory/pizza/CheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/factory/simpleFactory/pizza/GreekPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/factory/simpleFactory/pizza/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java/factory/factoryMethod/Pizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/factory/factoryMethod/OrderPizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/factory/factoryMethod/GreekPizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/factory/factoryMethod/CheesePizza.java" />
@@ -253,6 +210,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/java/facade/DVDPlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/facade/Popcorn.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/java/facade/HomeFacade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/flyweight/WebSite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/flyweight/ConcreteWebSite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/flyweight/WebSiteFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java/flyweight/FlyWeight_JDK.java" />
       </list>
     </option>
   </component>
@@ -273,8 +234,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="241" />
-    <option name="y" value="121" />
+    <option name="x" value="77" />
+    <option name="y" value="113" />
     <option name="width" value="1100" />
     <option name="height" value="561" />
   </component>
@@ -287,6 +248,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -337,13 +299,12 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="facade" type="462c0819:PsiDirectoryNode" />
+              <item name="flyweight" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -466,18 +427,18 @@
       <workItem from="1595415804825" duration="7762000" />
       <workItem from="1595472436257" duration="417000" />
       <workItem from="1595502595271" duration="4721000" />
-      <workItem from="1595572535871" duration="6273000" />
+      <workItem from="1595572535871" duration="6464000" />
+      <workItem from="1595592563683" duration="3089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42467000" />
+    <option name="totallyTimeSpent" value="45747000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="127" width="1100" height="561" extended-state="0" />
-    <editor active="true" />
+    <frame x="77" y="113" width="1100" height="561" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2778846" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35865384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -563,30 +524,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/factory/factoryMethod/CheeseOrderPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/factory/absFactory/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/factory/absFactory/AbsFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/factory/factoryMethod/GreekPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/factory/absFactory/CheesePizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -953,33 +890,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/composite/OrganizationComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="496">
           <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
-          <folding>
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/composite/University.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="224">
           <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="48" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
             <element signature="e#760#761#0" expanded="true" />
             <element signature="e#798#799#0" expanded="true" />
             <element signature="e#842#843#0" expanded="true" />
@@ -990,24 +911,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/composite/College.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="256">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/composite/Department.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        <state relative-caret-position="352">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
           <folding>
             <element signature="e#247#248#0" expanded="true" />
             <element signature="e#279#280#0" expanded="true" />
@@ -1016,69 +931,73 @@
             <element signature="e#407#408#0" expanded="true" />
             <element signature="e#444#445#0" expanded="true" />
             <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/composite/Composite_JDK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state relative-caret-position="240">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/facade/Popcorn.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/facade/DVDPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/facade/DVDPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/facade/Popcorn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="336">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java/facade/HomeFacade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        <state relative-caret-position="126">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/flyweight/WebSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/flyweight/ConcreteWebSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/flyweight/WebSiteFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java/flyweight/FlyWeight_JDK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
         </state>
       </provider>
     </entry>

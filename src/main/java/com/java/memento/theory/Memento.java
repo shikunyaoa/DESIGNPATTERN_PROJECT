@@ -1,4 +1,4 @@
-package com.java.memento;
+package com.java.memento.theory;
 
 /**
  * @ClassName: Memento

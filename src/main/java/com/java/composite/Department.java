@@ -3,7 +3,7 @@ package com.java.composite;
 /**
  * @ClassName: Department
  * @Author: kunyao
- * @Description:
+ * @Description: 组合模式 - 部门类
  * @Date: 2020/7/24 15:35
  * @Version: 1.0
  */

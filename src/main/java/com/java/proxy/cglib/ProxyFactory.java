@@ -37,12 +37,6 @@ public class ProxyFactory implements MethodInterceptor {
 
     /**
      * 重写intercept,会调用目标对象的方法
-     * @param o
-     * @param method
-     * @param args
-     * @param methodProxy
-     * @return
-     * @throws Throwable
      */
     @Override
     public Object intercept(Object o, Method method, Object[] args, MethodProxy methodProxy) throws Throwable {

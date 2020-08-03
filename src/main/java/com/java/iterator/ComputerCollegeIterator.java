@@ -5,7 +5,7 @@ import java.util.Iterator;
 /**
  * @ClassName: ComputerCollegeIterator
  * @Author: kunyao
- * @Description:
+ * @Description: 迭代器模式 - 数组型迭代器
  * @Date: 2020/7/26 20:13
  * @Version: 1.0
  */

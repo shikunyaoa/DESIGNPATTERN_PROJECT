@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @ClassName: University
  * @Author: kunyao
- * @Description:
+ * @Description: 组合模式 - 抽象层
  * @Date: 2020/7/24 15:27
  * @Version: 1.0
  */

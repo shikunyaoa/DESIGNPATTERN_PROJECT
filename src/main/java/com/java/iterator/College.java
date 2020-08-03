@@ -2,6 +2,9 @@ package com.java.iterator;
 
 import java.util.Iterator;
 
+/**
+ *
+ */
 public interface College {
 
     public String getName();

@@ -3,7 +3,7 @@ package com.java.command;
 /**
  * @ClassName: RemoteController
  * @Author: kunyao
- * @Description: 命令模式
+ * @Description: 命令模式 - 请求发送者
  * @Date: 2020/7/26 17:17
  * @Version: 1.0
  */
@@ -26,8 +26,6 @@ public class RemoteController {
             offCommands[i] = new NoCommand();
         }
     }
-
-
     public void setCommand(int no, Command onCommand, Command offCommand){
         onCommands[no] = onCommand;
         offCommands[no] = offCommand;

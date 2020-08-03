@@ -3,7 +3,7 @@ package com.java.facade;
 /**
  * @ClassName: Popcorn
  * @Author: kunyao
- * @Description:
+ * @Description: 外观模式 - 子系统类
  * @Date: 2020/7/24 17:04
  * @Version: 1.0
  */

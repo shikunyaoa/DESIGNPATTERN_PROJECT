@@ -5,7 +5,7 @@ import java.util.HashMap;
 /**
  * @ClassName: WebSiteFactory
  * @Author: kunyao
- * @Description: 网站工厂类
+ * @Description: 享元模式 - 具体对象的工厂类 - 相当于对象池
  * @Date: 2020/7/24 21:35
  * @Version: 1.0
  */

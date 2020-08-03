@@ -3,7 +3,7 @@ package com.java.factory.absFactory;
 /**
  * @ClassName: OrderPizza
  * @Author: kunyao
- * @Description:
+ * @Description: 抽象工厂的使用者
  * @Date: 2020/7/19 22:24
  * @Version: 1.0
  */

@@ -3,7 +3,7 @@ package com.java.decorator;
 /**
  * @ClassName: Drink
  * @Author: kunyao
- * @Description:
+ * @Description: 装饰器模式 - 抽象类
  * @Date: 2020/7/23 20:32
  * @Version: 1.0
  */

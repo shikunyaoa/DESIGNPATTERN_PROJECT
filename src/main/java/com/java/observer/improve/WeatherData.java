@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * @ClassName: WeatherData
  * @Author: kunyao
- * @Description:
+ * @Description: 观察者模式 - 注册中心实现类
  * @Date: 2020/7/27 10:38
  * @Version: 1.0
  */

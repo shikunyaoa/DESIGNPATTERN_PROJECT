@@ -3,7 +3,7 @@ package com.java.observer.improve;
 /**
  * @ClassName: CurrentConditions
  * @Author: kunyao
- * @Description:
+ * @Description: 观察者模式 - 观察者行为实现类
  * @Date: 2020/7/27 11:08
  * @Version: 1.0
  */

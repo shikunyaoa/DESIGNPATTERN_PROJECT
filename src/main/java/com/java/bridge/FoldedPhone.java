@@ -3,7 +3,7 @@ package com.java.bridge;
 /**
  * @ClassName: FoldedPhone
  * @Author: kunyao
- * @Description:
+ * @Description: 另一种特性
  * @Date: 2020/7/22 22:11
  * @Version: 1.0
  */

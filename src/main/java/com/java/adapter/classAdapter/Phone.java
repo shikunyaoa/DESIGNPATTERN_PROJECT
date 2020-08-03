@@ -3,7 +3,7 @@ package com.java.adapter.classAdapter;
 /**
  * @ClassName: Phone
  * @Author: kunyao
- * @Description:
+ * @Description: 适配器类使用方
  * @Date: 2020/7/22 20:07
  * @Version: 1.0
  */

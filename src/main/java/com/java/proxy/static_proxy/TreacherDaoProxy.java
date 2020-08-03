@@ -3,7 +3,7 @@ package com.java.proxy.static_proxy;
 /**
  * @ClassName: TreacherDaoProxy
  * @Author: kunyao
- * @Description: 静态代理模式
+ * @Description: 静态代理 - 代理类
  * @Date: 2020/7/25 9:58
  * @Version: 1.0
  */

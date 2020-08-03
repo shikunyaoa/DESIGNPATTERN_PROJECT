@@ -3,7 +3,7 @@ package com.java.command;
 /**
  * @ClassName: LightReceiver
  * @Author: kunyao
- * @Description:
+ * @Description: 命令模式 - 请求接受者
  * @Date: 2020/7/26 14:00
  * @Version: 1.0
  */

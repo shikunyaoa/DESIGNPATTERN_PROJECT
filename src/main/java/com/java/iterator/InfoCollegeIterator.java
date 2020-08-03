@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @ClassName: InfoCollegeIterator
  * @Author: kunyao
- * @Description:
+ * @Description: 迭代器模式 - 集合型迭代器
  * @Date: 2020/7/26 20:18
  * @Version: 1.0
  */

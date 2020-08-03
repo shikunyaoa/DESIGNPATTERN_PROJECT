@@ -3,7 +3,7 @@ package com.java.composite;
 /**
  * @ClassName: OrganizationComponent
  * @Author: kunyao
- * @Description: 组合模式
+ * @Description: 组合模式 - 抽象层
  * @Date: 2020/7/24 15:21
  * @Version: 1.0
  */

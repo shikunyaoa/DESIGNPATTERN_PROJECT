@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @ClassName: College
  * @Author: kunyao
- * @Description:
+ * @Description: 组合模式 - 学院类
  * @Date: 2020/7/24 15:32
  * @Version: 1.0
  */

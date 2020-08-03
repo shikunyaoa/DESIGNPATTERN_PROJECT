@@ -3,7 +3,7 @@ package com.java.command;
 /**
  * @ClassName: LightOnCommand
  * @Author: kunyao
- * @Description: 命令模式通过命令连接执行者
+ * @Description: 命令模式 - 具体命令
  * @Date: 2020/7/26 13:58
  * @Version: 1.0
  */

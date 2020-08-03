@@ -9,7 +9,9 @@ package com.java.template;
  */
 public class PureSoyaMilk extends SoyaMilk {
 
-
+    /**
+     * 不添加任何材料，直接空实现
+     */
     @Override
     void addCondiments() {
 

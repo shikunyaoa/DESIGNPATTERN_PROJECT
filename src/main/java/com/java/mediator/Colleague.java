@@ -3,7 +3,7 @@ package com.java.mediator;
 /**
  * @ClassName: Colleague
  * @Author: kunyao
- * @Description:
+ * @Description: 中介者模式 - 要交互的对象抽象类
  * @Date: 2020/7/27 17:13
  * @Version: 1.0
  */

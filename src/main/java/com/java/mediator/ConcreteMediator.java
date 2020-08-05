@@ -5,7 +5,7 @@ import java.util.HashMap;
 /**
  * @ClassName: ConcreteMediator
  * @Author: kunyao
- * @Description: 中介者模式 - 中介者
+ * @Description: 中介者模式 - 中介者实现类
  * @Date: 2020/7/27 17:25
  * @Version: 1.0
  */

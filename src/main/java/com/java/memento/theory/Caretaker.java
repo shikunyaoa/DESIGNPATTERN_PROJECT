@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @ClassName: Caretaker
  * @Author: kunyao
- * @Description: 备忘录模式
+ * @Description: 备忘录模式 - 管理状态对象的容器类
  * @Date: 2020/7/27 22:13
  * @Version: 1.0
  */

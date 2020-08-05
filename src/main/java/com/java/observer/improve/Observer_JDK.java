@@ -1,5 +1,7 @@
 package com.java.observer.improve;
 
+import java.util.Observable;
+
 /**
  * @ClassName: Observer_JDK
  * @Author: kunyao
@@ -10,6 +12,6 @@ package com.java.observer.improve;
 public class Observer_JDK {
 
     public static void main(String[] args) {
-        //Observable
+        new Observable()
     }
 }

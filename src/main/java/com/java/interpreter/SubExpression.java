@@ -5,7 +5,7 @@ import java.util.HashMap;
 /**
  * @ClassName: AddExpression
  * @Author: kunyao
- * @Description:
+ * @Description: 解释器模式 - 表达式实现类
  * @Date: 2020/7/28 20:41
  * @Version: 1.0
  */

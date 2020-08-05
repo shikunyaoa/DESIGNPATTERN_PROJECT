@@ -3,7 +3,7 @@ package com.java.memento.theory;
 /**
  * @ClassName: Originator
  * @Author: kunyao
- * @Description: 备忘录模式
+ * @Description: 备忘录模式 - 操作状态对象的操作类
  * @Date: 2020/7/27 22:06
  * @Version: 1.0
  */

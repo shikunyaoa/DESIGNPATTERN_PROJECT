@@ -3,7 +3,7 @@ package com.java.strategy;
 /**
  * @ClassName: WildDuck
  * @Author: kunyao
- * @Description:
+ * @Description: 策略模式 - 野鸭1
  * @Date: 2020/8/1 16:56
  * @Version: 1.0
  */

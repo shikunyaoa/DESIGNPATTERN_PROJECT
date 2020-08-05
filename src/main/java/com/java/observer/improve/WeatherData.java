@@ -47,6 +47,13 @@ public class WeatherData implements Subject {
     }
 
     @Override
+    public void notifyObservers() {
+        for(Observer observer : observers){
+            observer.update(getTemperature(), getPressure(), getHumidity());
+        }
+    }
+
+    @Override
     public void registerObserver(Observer o) {
         observers.add(o);
     }
@@ -54,12 +61,5 @@ public class WeatherData implements Subject {
     @Override
     public void removeObserver(Observer o) {
         observers.remove(o);
-    }
-
-    @Override
-    public void notifyObservers() {
-        for(Observer observer : observers){
-            observer.update(getTemperature(), getPressure(), getHumidity());
-        }
     }
 }
